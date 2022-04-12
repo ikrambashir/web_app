@@ -11,7 +11,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
 st.write("""# ML App
-## Developed by: Ikram Bashir""")
+## Developed by: **Ikram Bashir**""")
 
 # side bar for different dataset
 dataset_name = st.sidebar.selectbox("Select Dataset", 
